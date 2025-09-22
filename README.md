@@ -1,1 +1,1 @@
-# goit-js-hw-01
+# Blended JS practice lessons
